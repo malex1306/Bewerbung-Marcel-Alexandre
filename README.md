@@ -56,7 +56,7 @@ Hier sind einige meiner bisherigen Projekte:
 
 ---
 
-## 🤔 Code-Rätsel (Optional)
+## 🤔 Code-Rätsel 
 ```js
 // Welche Zahl wird hier ausgegeben?
 function mysteryNumber() {
